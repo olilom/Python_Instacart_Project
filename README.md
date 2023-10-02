@@ -6,7 +6,7 @@ The task involves examining Instacart data to identify patterns and trends that 
 ## Data Set
 Data set received in the Project Brief.
 ### Tables
-Orders
++ Orders
 + Orders_Products_Prior
 + Products
 + Customers

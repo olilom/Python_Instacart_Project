@@ -7,11 +7,11 @@ The task involves examining Instacart data to identify patterns and trends that 
 Data set received in the Project Brief.
 ### Tables
 Orders
-+Orders_Products_Prior
-+Products
-+Customers
-+Departments
++ Orders_Products_Prior
++ Products
++ Customers
++ Departments
 ## Visualizations
 Visualizations created in Jupyter Notebook using Python language.
 ## Results
-Folder with scripts, visualizations and a report for the client
+Folder with scripts, visualizations and a report for the client.
